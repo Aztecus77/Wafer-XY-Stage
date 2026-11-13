@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1260" viewBox="0 0 1800 1260">
+<title>Conceptual mechanical schematic</title>
+<desc>Two static views of the XY teaching diagram: the complete assembly and the same assembly with the wafer holder removed to expose the X-axis nut. The Y carriage carries the X assembly. The screws and guide rails are shown schematically at different heights.</desc>
+<g font-family="Arial, DejaVu Sans, sans-serif">
+<rect x="0" y="0" width="1800" height="1260" fill="#ffffff" fill-opacity="1" stroke="none" stroke-width="1.6"/>
+<text x="1744" y="42" font-size="21" font-weight="400" text-anchor="end" fill="#50616d">Conceptual mechanical schematic</text>
+<g transform="translate(0 -70)">
+<text x="56" y="171" font-size="26" font-weight="600" text-anchor="start" fill="#202b35">Assembly with wafer holder</text>
+<text x="936" y="171" font-size="26" font-weight="600" text-anchor="start" fill="#202b35">Holder removed: X-axis nut exposed</text>
+<g transform="translate(48 190)">
+<rect x="8" y="55" width="784" height="484" fill="#ffffff" fill-opacity="1" stroke="#9ba8b0" stroke-width="1.8"/>
+<text x="12" y="30" font-size="18" font-weight="400" text-anchor="start" fill="#202b35">Base</text>
+<text x="788" y="30" font-size="18" font-weight="500" text-anchor="end" fill="#202b35">X →   Y ↑</text>
+<rect x="42" y="65" width="8" height="415" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.5"/>
+<text x="46" y="53" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">1Y</text>
+<rect x="750" y="65" width="8" height="415" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.5"/>
+<text x="754" y="53" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">1Y</text>
+<line x1="400" y1="65" x2="400" y2="496" stroke="#6d7c86" stroke-width="2"/>
+<line x1="395" y1="75" x2="405" y2="69" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="85" x2="405" y2="79" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="95" x2="405" y2="89" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="105" x2="405" y2="99" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="115" x2="405" y2="109" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="125" x2="405" y2="119" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="135" x2="405" y2="129" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="145" x2="405" y2="139" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="155" x2="405" y2="149" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="165" x2="405" y2="159" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="175" x2="405" y2="169" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="185" x2="405" y2="179" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="195" x2="405" y2="189" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="205" x2="405" y2="199" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="215" x2="405" y2="209" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="225" x2="405" y2="219" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="235" x2="405" y2="229" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="245" x2="405" y2="239" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="255" x2="405" y2="249" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="265" x2="405" y2="259" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="275" x2="405" y2="269" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="285" x2="405" y2="279" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="295" x2="405" y2="289" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="305" x2="405" y2="299" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="315" x2="405" y2="309" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="325" x2="405" y2="319" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="335" x2="405" y2="329" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="345" x2="405" y2="339" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="355" x2="405" y2="349" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="365" x2="405" y2="359" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="375" x2="405" y2="369" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="385" x2="405" y2="379" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="395" x2="405" y2="389" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="405" x2="405" y2="399" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="415" x2="405" y2="409" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="425" x2="405" y2="419" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="435" x2="405" y2="429" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="445" x2="405" y2="439" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="455" x2="405" y2="449" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="465" x2="405" y2="459" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="475" x2="405" y2="469" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="485" x2="405" y2="479" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="495" x2="405" y2="489" stroke="#6d7c86" stroke-width="1.2"/>
+<rect x="388" y="73" width="24" height="16" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<rect x="388" y="474" width="24" height="16" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<rect x="375" y="496" width="50" height="34" fill="#e4e9ed" fill-opacity="1" stroke="#202b35" stroke-width="1.8"/>
+<text x="400" y="518" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">M_Y</text>
+<text x="439" y="86" font-size="15" font-weight="400" text-anchor="start" fill="#202b35">B_Y</text>
+<line x1="413" y1="81" x2="430" y2="81" stroke="#9ba8b0" stroke-width="1.2"/>
+<text x="439" y="487" font-size="15" font-weight="400" text-anchor="start" fill="#202b35">B_Y</text>
+<line x1="413" y1="482" x2="430" y2="482" stroke="#9ba8b0" stroke-width="1.2"/>
+<text x="365" y="113" font-size="16" font-weight="500" text-anchor="end" fill="#202b35">S_Y</text>
+<line x1="372" y1="108" x2="393" y2="108" stroke="#9ba8b0" stroke-width="1.2"/>
+<g id="complete-limit-Y-max" data-part="limit-sensor" data-axis="Y" data-end="max">
+<rect x="427" y="96" width="18" height="18" fill="#eee5f7" fill-opacity="1" stroke="#79529c" stroke-width="2"/>
+<text x="453" y="110" font-size="16" font-weight="500" text-anchor="start" fill="#79529c">LS_Y+</text>
+</g>
+<g id="complete-limit-Y-min" data-part="limit-sensor" data-axis="Y" data-end="min">
+<rect x="427" y="449" width="18" height="18" fill="#eee5f7" fill-opacity="1" stroke="#79529c" stroke-width="2"/>
+<text x="453" y="463" font-size="16" font-weight="500" text-anchor="start" fill="#79529c">LS_Y−</text>
+</g>
+<g id="complete-carriage-y" transform="translate(0 -21)">
+<rect x="14" y="140" width="772" height="260" fill="#f1f4f6" fill-opacity="0.6" stroke="#202b35" stroke-width="1.9"/>
+<rect x="32" y="150" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="46" y="170" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2Y</text>
+<rect x="32" y="360" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="46" y="380" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2Y</text>
+<rect x="740" y="150" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="754" y="170" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2Y</text>
+<rect x="740" y="360" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="754" y="380" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2Y</text>
+<text x="440" y="157" font-size="17" font-weight="500" text-anchor="middle" fill="#202b35">4Y</text>
+<rect x="86" y="201" width="628" height="8" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<circle cx="98" cy="205" r="2" fill="#202b35" stroke="#202b35" stroke-width="1"/>
+<circle cx="702" cy="205" r="2" fill="#202b35" stroke="#202b35" stroke-width="1"/>
+<text x="721" y="210" font-size="16" font-weight="500" text-anchor="start" fill="#202b35">1X</text>
+<rect x="86" y="331" width="628" height="8" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<circle cx="98" cy="335" r="2" fill="#202b35" stroke="#202b35" stroke-width="1"/>
+<circle cx="702" cy="335" r="2" fill="#202b35" stroke="#202b35" stroke-width="1"/>
+<text x="721" y="340" font-size="16" font-weight="500" text-anchor="start" fill="#202b35">1X</text>
+<line x1="62" y1="270" x2="726" y2="270" stroke="#6d7c86" stroke-width="2"/>
+<line x1="66" y1="275" x2="72" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="76" y1="275" x2="82" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="86" y1="275" x2="92" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="96" y1="275" x2="102" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="106" y1="275" x2="112" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="116" y1="275" x2="122" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="126" y1="275" x2="132" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="136" y1="275" x2="142" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="146" y1="275" x2="152" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="156" y1="275" x2="162" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="166" y1="275" x2="172" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="176" y1="275" x2="182" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="186" y1="275" x2="192" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="196" y1="275" x2="202" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="206" y1="275" x2="212" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="216" y1="275" x2="222" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="226" y1="275" x2="232" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="236" y1="275" x2="242" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="246" y1="275" x2="252" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="256" y1="275" x2="262" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="266" y1="275" x2="272" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="276" y1="275" x2="282" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="286" y1="275" x2="292" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="296" y1="275" x2="302" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="306" y1="275" x2="312" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="316" y1="275" x2="322" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="326" y1="275" x2="332" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="336" y1="275" x2="342" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="346" y1="275" x2="352" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="356" y1="275" x2="362" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="366" y1="275" x2="372" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="376" y1="275" x2="382" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="386" y1="275" x2="392" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="396" y1="275" x2="402" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="406" y1="275" x2="412" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="416" y1="275" x2="422" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="426" y1="275" x2="432" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="436" y1="275" x2="442" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="446" y1="275" x2="452" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="456" y1="275" x2="462" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="466" y1="275" x2="472" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="476" y1="275" x2="482" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="486" y1="275" x2="492" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="496" y1="275" x2="502" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="506" y1="275" x2="512" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="516" y1="275" x2="522" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="526" y1="275" x2="532" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="536" y1="275" x2="542" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="546" y1="275" x2="552" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="556" y1="275" x2="562" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="566" y1="275" x2="572" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="576" y1="275" x2="582" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="586" y1="275" x2="592" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="596" y1="275" x2="602" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="606" y1="275" x2="612" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="616" y1="275" x2="622" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="626" y1="275" x2="632" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="636" y1="275" x2="642" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="646" y1="275" x2="652" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="656" y1="275" x2="662" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="666" y1="275" x2="672" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="676" y1="275" x2="682" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="686" y1="275" x2="692" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="696" y1="275" x2="702" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="706" y1="275" x2="712" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="716" y1="275" x2="722" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<rect x="16" y="248" width="46" height="44" fill="#e4e9ed" fill-opacity="1" stroke="#202b35" stroke-width="1.8"/>
+<text x="39" y="275" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">M_X</text>
+<rect x="70" y="257" width="14" height="26" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<rect x="714" y="257" width="14" height="26" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<text x="100" y="303" font-size="15" font-weight="400" text-anchor="start" fill="#202b35">B_X</text>
+<line x1="84" y1="284" x2="96" y2="294" stroke="#9ba8b0" stroke-width="1.2"/>
+<text x="706" y="303" font-size="15" font-weight="400" text-anchor="end" fill="#202b35">B_X</text>
+<line x1="720" y1="284" x2="708" y2="294" stroke="#9ba8b0" stroke-width="1.2"/>
+<text x="630" y="250" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">S_X</text>
+<line x1="630" y1="256" x2="630" y2="264" stroke="#9ba8b0" stroke-width="1.2"/>
+<g id="complete-nut-y" data-part="nut-Y" data-centre-x="400" data-centre-y="270">
+<rect x="380" y="257" width="40" height="26" fill="#ffead3" fill-opacity="1" stroke="#b46d23" stroke-width="1.8"/>
+<text x="400" y="275" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">3Y</text>
+</g>
+<g id="complete-limit-X-min" data-part="limit-sensor" data-axis="X" data-end="min">
+<rect x="91" y="222" width="18" height="18" fill="#eee5f7" fill-opacity="1" stroke="#79529c" stroke-width="2"/>
+<text x="100" y="258" font-size="16" font-weight="500" text-anchor="middle" fill="#79529c">LS_X−</text>
+</g>
+<g id="complete-limit-X-max" data-part="limit-sensor" data-axis="X" data-end="max">
+<rect x="691" y="222" width="18" height="18" fill="#eee5f7" fill-opacity="1" stroke="#79529c" stroke-width="2"/>
+<text x="700" y="258" font-size="16" font-weight="500" text-anchor="middle" fill="#79529c">LS_X+</text>
+</g>
+<g transform="translate(100 0)">
+<rect x="336" y="182" width="128" height="176" fill="none" fill-opacity="1" stroke="#202b35" stroke-width="1.9"/>
+<rect x="344" y="190" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="358" y="210" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2X</text>
+<rect x="344" y="320" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="358" y="340" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2X</text>
+<rect x="428" y="190" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="442" y="210" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2X</text>
+<rect x="428" y="320" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="442" y="340" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2X</text>
+<rect x="387" y="250" width="26" height="40" fill="#ffead3" fill-opacity="1" stroke="#b46d23" stroke-width="1.8"/>
+<text x="400" y="275" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">3X</text>
+<text x="400" y="194" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">4X</text>
+<rect x="370" y="235" width="60" height="70" fill="#ffffff" fill-opacity="1" stroke="#202b35" stroke-width="1.7"/>
+<circle cx="400" cy="270" r="25" fill="#ffffff" stroke="#202b35" stroke-width="2"/>
+<text x="400" y="275" font-size="14" font-weight="500" text-anchor="middle" fill="#202b35">wafer</text>
+<circle cx="377" cy="241" r="2" fill="#e4e9ed" stroke="#202b35" stroke-width="1"/>
+<circle cx="377" cy="299" r="2" fill="#e4e9ed" stroke="#202b35" stroke-width="1"/>
+<circle cx="423" cy="241" r="2" fill="#e4e9ed" stroke="#202b35" stroke-width="1"/>
+<circle cx="423" cy="299" r="2" fill="#e4e9ed" stroke="#202b35" stroke-width="1"/>
+<text x="446" y="310" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">H</text>
+<line x1="430" y1="299" x2="439" y2="306" stroke="#9ba8b0" stroke-width="1.2"/>
+</g></g></g>
+<g transform="translate(928 190)">
+<rect x="8" y="55" width="784" height="484" fill="#ffffff" fill-opacity="1" stroke="#9ba8b0" stroke-width="1.8"/>
+<text x="12" y="30" font-size="18" font-weight="400" text-anchor="start" fill="#202b35">Base</text>
+<text x="788" y="30" font-size="18" font-weight="500" text-anchor="end" fill="#202b35">X →   Y ↑</text>
+<rect x="42" y="65" width="8" height="415" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.5"/>
+<text x="46" y="53" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">1Y</text>
+<rect x="750" y="65" width="8" height="415" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.5"/>
+<text x="754" y="53" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">1Y</text>
+<line x1="400" y1="65" x2="400" y2="496" stroke="#6d7c86" stroke-width="2"/>
+<line x1="395" y1="75" x2="405" y2="69" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="85" x2="405" y2="79" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="95" x2="405" y2="89" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="105" x2="405" y2="99" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="115" x2="405" y2="109" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="125" x2="405" y2="119" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="135" x2="405" y2="129" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="145" x2="405" y2="139" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="155" x2="405" y2="149" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="165" x2="405" y2="159" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="175" x2="405" y2="169" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="185" x2="405" y2="179" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="195" x2="405" y2="189" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="205" x2="405" y2="199" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="215" x2="405" y2="209" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="225" x2="405" y2="219" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="235" x2="405" y2="229" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="245" x2="405" y2="239" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="255" x2="405" y2="249" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="265" x2="405" y2="259" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="275" x2="405" y2="269" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="285" x2="405" y2="279" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="295" x2="405" y2="289" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="305" x2="405" y2="299" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="315" x2="405" y2="309" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="325" x2="405" y2="319" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="335" x2="405" y2="329" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="345" x2="405" y2="339" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="355" x2="405" y2="349" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="365" x2="405" y2="359" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="375" x2="405" y2="369" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="385" x2="405" y2="379" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="395" x2="405" y2="389" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="405" x2="405" y2="399" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="415" x2="405" y2="409" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="425" x2="405" y2="419" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="435" x2="405" y2="429" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="445" x2="405" y2="439" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="455" x2="405" y2="449" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="465" x2="405" y2="459" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="475" x2="405" y2="469" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="485" x2="405" y2="479" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="395" y1="495" x2="405" y2="489" stroke="#6d7c86" stroke-width="1.2"/>
+<rect x="388" y="73" width="24" height="16" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<rect x="388" y="474" width="24" height="16" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<rect x="375" y="496" width="50" height="34" fill="#e4e9ed" fill-opacity="1" stroke="#202b35" stroke-width="1.8"/>
+<text x="400" y="518" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">M_Y</text>
+<text x="439" y="86" font-size="15" font-weight="400" text-anchor="start" fill="#202b35">B_Y</text>
+<line x1="413" y1="81" x2="430" y2="81" stroke="#9ba8b0" stroke-width="1.2"/>
+<text x="439" y="487" font-size="15" font-weight="400" text-anchor="start" fill="#202b35">B_Y</text>
+<line x1="413" y1="482" x2="430" y2="482" stroke="#9ba8b0" stroke-width="1.2"/>
+<text x="365" y="113" font-size="16" font-weight="500" text-anchor="end" fill="#202b35">S_Y</text>
+<line x1="372" y1="108" x2="393" y2="108" stroke="#9ba8b0" stroke-width="1.2"/>
+<g id="exposed-limit-Y-max" data-part="limit-sensor" data-axis="Y" data-end="max">
+<rect x="427" y="96" width="18" height="18" fill="#eee5f7" fill-opacity="1" stroke="#79529c" stroke-width="2"/>
+<text x="453" y="110" font-size="16" font-weight="500" text-anchor="start" fill="#79529c">LS_Y+</text>
+</g>
+<g id="exposed-limit-Y-min" data-part="limit-sensor" data-axis="Y" data-end="min">
+<rect x="427" y="449" width="18" height="18" fill="#eee5f7" fill-opacity="1" stroke="#79529c" stroke-width="2"/>
+<text x="453" y="463" font-size="16" font-weight="500" text-anchor="start" fill="#79529c">LS_Y−</text>
+</g>
+<g id="exposed-carriage-y" transform="translate(0 -21)">
+<rect x="14" y="140" width="772" height="260" fill="#f1f4f6" fill-opacity="0.6" stroke="#202b35" stroke-width="1.9"/>
+<rect x="32" y="150" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="46" y="170" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2Y</text>
+<rect x="32" y="360" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="46" y="380" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2Y</text>
+<rect x="740" y="150" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="754" y="170" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2Y</text>
+<rect x="740" y="360" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="754" y="380" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2Y</text>
+<text x="440" y="157" font-size="17" font-weight="500" text-anchor="middle" fill="#202b35">4Y</text>
+<rect x="86" y="201" width="628" height="8" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<circle cx="98" cy="205" r="2" fill="#202b35" stroke="#202b35" stroke-width="1"/>
+<circle cx="702" cy="205" r="2" fill="#202b35" stroke="#202b35" stroke-width="1"/>
+<text x="721" y="210" font-size="16" font-weight="500" text-anchor="start" fill="#202b35">1X</text>
+<rect x="86" y="331" width="628" height="8" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<circle cx="98" cy="335" r="2" fill="#202b35" stroke="#202b35" stroke-width="1"/>
+<circle cx="702" cy="335" r="2" fill="#202b35" stroke="#202b35" stroke-width="1"/>
+<text x="721" y="340" font-size="16" font-weight="500" text-anchor="start" fill="#202b35">1X</text>
+<line x1="62" y1="270" x2="726" y2="270" stroke="#6d7c86" stroke-width="2"/>
+<line x1="66" y1="275" x2="72" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="76" y1="275" x2="82" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="86" y1="275" x2="92" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="96" y1="275" x2="102" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="106" y1="275" x2="112" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="116" y1="275" x2="122" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="126" y1="275" x2="132" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="136" y1="275" x2="142" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="146" y1="275" x2="152" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="156" y1="275" x2="162" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="166" y1="275" x2="172" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="176" y1="275" x2="182" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="186" y1="275" x2="192" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="196" y1="275" x2="202" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="206" y1="275" x2="212" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="216" y1="275" x2="222" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="226" y1="275" x2="232" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="236" y1="275" x2="242" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="246" y1="275" x2="252" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="256" y1="275" x2="262" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="266" y1="275" x2="272" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="276" y1="275" x2="282" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="286" y1="275" x2="292" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="296" y1="275" x2="302" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="306" y1="275" x2="312" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="316" y1="275" x2="322" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="326" y1="275" x2="332" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="336" y1="275" x2="342" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="346" y1="275" x2="352" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="356" y1="275" x2="362" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="366" y1="275" x2="372" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="376" y1="275" x2="382" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="386" y1="275" x2="392" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="396" y1="275" x2="402" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="406" y1="275" x2="412" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="416" y1="275" x2="422" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="426" y1="275" x2="432" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="436" y1="275" x2="442" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="446" y1="275" x2="452" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="456" y1="275" x2="462" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="466" y1="275" x2="472" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="476" y1="275" x2="482" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="486" y1="275" x2="492" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="496" y1="275" x2="502" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="506" y1="275" x2="512" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="516" y1="275" x2="522" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="526" y1="275" x2="532" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="536" y1="275" x2="542" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="546" y1="275" x2="552" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="556" y1="275" x2="562" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="566" y1="275" x2="572" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="576" y1="275" x2="582" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="586" y1="275" x2="592" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="596" y1="275" x2="602" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="606" y1="275" x2="612" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="616" y1="275" x2="622" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="626" y1="275" x2="632" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="636" y1="275" x2="642" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="646" y1="275" x2="652" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="656" y1="275" x2="662" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="666" y1="275" x2="672" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="676" y1="275" x2="682" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="686" y1="275" x2="692" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="696" y1="275" x2="702" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="706" y1="275" x2="712" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<line x1="716" y1="275" x2="722" y2="265" stroke="#6d7c86" stroke-width="1.2"/>
+<rect x="16" y="248" width="46" height="44" fill="#e4e9ed" fill-opacity="1" stroke="#202b35" stroke-width="1.8"/>
+<text x="39" y="275" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">M_X</text>
+<rect x="70" y="257" width="14" height="26" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<rect x="714" y="257" width="14" height="26" fill="#e4e9ed" fill-opacity="1" stroke="#6d7c86" stroke-width="1.6"/>
+<text x="100" y="303" font-size="15" font-weight="400" text-anchor="start" fill="#202b35">B_X</text>
+<line x1="84" y1="284" x2="96" y2="294" stroke="#9ba8b0" stroke-width="1.2"/>
+<text x="706" y="303" font-size="15" font-weight="400" text-anchor="end" fill="#202b35">B_X</text>
+<line x1="720" y1="284" x2="708" y2="294" stroke="#9ba8b0" stroke-width="1.2"/>
+<text x="630" y="250" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">S_X</text>
+<line x1="630" y1="256" x2="630" y2="264" stroke="#9ba8b0" stroke-width="1.2"/>
+<g id="exposed-nut-y" data-part="nut-Y" data-centre-x="400" data-centre-y="270">
+<rect x="380" y="257" width="40" height="26" fill="#ffead3" fill-opacity="1" stroke="#b46d23" stroke-width="1.8"/>
+<text x="400" y="275" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">3Y</text>
+</g>
+<g id="exposed-limit-X-min" data-part="limit-sensor" data-axis="X" data-end="min">
+<rect x="91" y="222" width="18" height="18" fill="#eee5f7" fill-opacity="1" stroke="#79529c" stroke-width="2"/>
+<text x="100" y="258" font-size="16" font-weight="500" text-anchor="middle" fill="#79529c">LS_X−</text>
+</g>
+<g id="exposed-limit-X-max" data-part="limit-sensor" data-axis="X" data-end="max">
+<rect x="691" y="222" width="18" height="18" fill="#eee5f7" fill-opacity="1" stroke="#79529c" stroke-width="2"/>
+<text x="700" y="258" font-size="16" font-weight="500" text-anchor="middle" fill="#79529c">LS_X+</text>
+</g>
+<g transform="translate(100 0)">
+<rect x="336" y="182" width="128" height="176" fill="none" fill-opacity="1" stroke="#202b35" stroke-width="1.9"/>
+<rect x="344" y="190" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="358" y="210" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2X</text>
+<rect x="344" y="320" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="358" y="340" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2X</text>
+<rect x="428" y="190" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="442" y="210" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2X</text>
+<rect x="428" y="320" width="28" height="30" fill="#dcecf7" fill-opacity="1" stroke="#387da4" stroke-width="1.8"/>
+<text x="442" y="340" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">2X</text>
+<rect x="387" y="250" width="26" height="40" fill="#ffead3" fill-opacity="1" stroke="#b46d23" stroke-width="1.8"/>
+<text x="400" y="275" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">3X</text>
+<text x="400" y="194" font-size="16" font-weight="500" text-anchor="middle" fill="#202b35">4X</text>
+</g></g></g>
+<line x1="56" y1="786" x2="1744" y2="786" stroke="#9ba8b0" stroke-width="1.4"/>
+<text x="56" y="829" font-size="25" font-weight="600" text-anchor="start" fill="#202b35">Lower Y axis</text>
+<text x="650" y="829" font-size="25" font-weight="600" text-anchor="start" fill="#202b35">Upper X axis</text>
+<text x="1240" y="829" font-size="25" font-weight="600" text-anchor="start" fill="#202b35">Holder, supports and base</text>
+<text x="56" y="873" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">1Y</text>
+<text x="134" y="873" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Y-axis guide rails on the fixed base.</text>
+<text x="56" y="923" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">2Y</text>
+<text x="134" y="923" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Y-axis linear bearing blocks.</text>
+<text x="56" y="973" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">3Y</text>
+<text x="134" y="973" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Y-axis nut centred beneath plate 4Y.</text>
+<text x="56" y="1023" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">4Y</text>
+<text x="134" y="1023" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Y carriage plate: carries the X assembly.</text>
+<text x="56" y="1073" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">M_Y</text>
+<text x="134" y="1073" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Y-axis motor on the fixed base.</text>
+<text x="56" y="1123" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">S_Y</text>
+<text x="134" y="1123" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Y-axis screw rotating in bearing supports.</text>
+<text x="650" y="873" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">1X</text>
+<text x="728" y="873" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">X-axis guide rails mounted on the Y plate.</text>
+<text x="650" y="923" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">2X</text>
+<text x="728" y="923" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">X-axis linear bearing blocks.</text>
+<text x="650" y="973" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">3X</text>
+<text x="728" y="973" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">X-axis nut attached to plate 4X.</text>
+<text x="650" y="1023" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">4X</text>
+<text x="728" y="1023" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">X carriage plate: carries the wafer holder.</text>
+<text x="650" y="1073" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">M_X</text>
+<text x="728" y="1073" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">X-axis motor carried by the Y carriage.</text>
+<text x="650" y="1123" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">S_X</text>
+<text x="728" y="1123" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">X-axis screw in the X assembly.</text>
+<text x="1240" y="873" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">H</text>
+<text x="1318" y="873" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Holder attached to the X carriage plate.</text>
+<text x="1240" y="923" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">wafer</text>
+<text x="1318" y="923" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Sample secured on the holder.</text>
+<text x="1240" y="973" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">B_X</text>
+<text x="1318" y="973" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">X screw bearing supports on the Y plate.</text>
+<text x="1240" y="1023" font-size="21" font-weight="600" text-anchor="start" fill="#202b35">B_Y</text>
+<text x="1318" y="1023" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Y screw bearing supports on the base.</text>
+<text x="1240" y="1073" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Base — fixed lower structure.</text>
+<text x="1240" y="1123" font-size="21" font-weight="400" text-anchor="start" fill="#50616d">Wafer retention method to be selected.</text>
+<text x="56" y="1173" font-size="19" font-weight="600" text-anchor="start" fill="#79529c">LS_Y− / LS_Y+</text>
+<text x="240" y="1173" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">Y limit sensors on the base.</text>
+<text x="650" y="1173" font-size="19" font-weight="600" text-anchor="start" fill="#79529c">LS_X− / LS_X+</text>
+<text x="834" y="1173" font-size="21" font-weight="400" text-anchor="start" fill="#202b35">X limit sensors on plate 4Y.</text>
+<text x="1240" y="1173" font-size="21" font-weight="400" text-anchor="start" fill="#50616d">4 limit sensors per stage.</text>
+<line x1="56" y1="1220" x2="1744" y2="1220" stroke="#9ba8b0" stroke-width="1.4"/>
+<text x="56" y="1260" font-size="21" font-weight="400" text-anchor="start" fill="#50616d">The X assembly sits above the Y carriage; crossing screws in this top view are at different heights.</text>
+<text x="56" y="1297" font-size="21" font-weight="400" text-anchor="start" fill="#50616d">Schematic proportions. Discussion concept: dimensions, components and performance are not yet approved.</text>
+</g>
+</g></svg>
