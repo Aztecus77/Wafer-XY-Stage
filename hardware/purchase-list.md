@@ -6,6 +6,7 @@ Related document: [Technical assignment](../docs/technical-assignment.md).
 
 ## 1. Primary Purchase List (Grouped by Supplier Orders)
 
+> [!NOTE]
 > **Exchange rate used:** `1 EUR = 24.40 CZK` (all prices include 21% Czech VAT and shipping/pickup in Brno).
 
 | # | Supplier Group | Schematic ID | Item | Function | Quantity | Key Specifications | Supplier / Product Link | Datasheet | Unit Price (CZK / EUR) | Total incl. Shipping (CZK / EUR) | Compatibility & Assembly Notes | Review Status |
@@ -36,6 +37,7 @@ Available budget: ____________________ Currency: **CZK / EUR (`1 EUR = 24.40 CZK
 
 ## 2. Individual Spare Parts Catalog (Czech Local Stock — Rapid Replacement Only)
 
+> [!TIP]
 > Use this table **only** if an individual mechanical component is damaged during machining or assembly and needs to be re-ordered individually in the Czech Republic without purchasing a full 2-axis bundle.
 
 | # | Schematic ID | Spare Component | Function | Minimum Qty | Key Specifications & Pricing Unit on Website | Czech Supplier Link (In Stock) | Unit Price on Site (CZK / EUR) | Total incl. CZ Shipping (CZK / EUR) | Replacement Notes |
